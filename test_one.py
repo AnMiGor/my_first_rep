@@ -1,5 +1,4 @@
 import requests
-import pytest
 
 
 def test_my_first_test():
